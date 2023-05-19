@@ -16,7 +16,7 @@
     <li>Inicie o servidor de desenvolvimento com o seguinte comando:</li>
     <code>npm run dev</code>
     <p>Isso iniciará o servidor usando o <code>nodemon</code>, que irá monitorar as alterações no código e reiniciar automaticamente o servidor sempre que um arquivo for modificado e salvo.</p>
-    <li>Acesse o aplicativo em seu navegador no seguinte endereço:</li>
+    <li>Acesse o projeto em seu postman no seguinte endereço:</li>
     <code>http://localhost:3000</code>
 </ol>
 
