@@ -23,10 +23,16 @@
 <h2>Observações</h2>
 
 <ul>
+    <li>Se deseja fazer do zero seu projeto de CRUD utilize o comando:</li>
+    <code>npm init -y</code>
+    <p>Siga a partir do terceiro comando, leia todas as obervações e por fim use de paralelo meu projeto.</p>
     <li>Este projeto utiliza o framework Express, que já está incluído no pacote <code>node.module</code>.</li>
     <li>Certifique-se de que seu arquivo <code>package.json</code> contenha a seguinte linha:</li>
     <code>"type": "module"</code>
     <p>Isso permite a utilização de módulos ES no projeto.</p>
+    <li>Certifique-se de que seu arquivo <code>package.json</code> contenha a seguinte linha:</li>
+    <code>"scripts:" {"dev": "nodemon server.js"}"</code>
+    <p>Isso permite que seu código atualize após suas alterações.</p>
     <li>Se você deseja apenas executar o arquivo em sua máquina, você pode usar esses dois comandos:</li>
       <ol>
         <li><code>npm install</code></li>
