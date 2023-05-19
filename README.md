@@ -36,7 +36,7 @@
     <li>Se você deseja apenas executar o arquivo em sua máquina, você pode usar esses dois comandos:</li>
       <ol>
         <li><code>npm install</code></li>
-        <li><code>npm start</code></li>
+        <li><code>npm run dev</code></li>
       </ol>
 </ul>
 
